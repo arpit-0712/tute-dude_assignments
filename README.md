@@ -1,5 +1,4 @@
 # tute-dude_assignments
-# tute-dude_assignments
 
 Task 1: Takes two number from the user as input 
 and performs basic operation like addition , substraction
